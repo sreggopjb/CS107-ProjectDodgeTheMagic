@@ -1,212 +1,212 @@
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_StartMenuMap.uasset" 0
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/NewMap.uasset" 1
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 2
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 3
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 4
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 5
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 6
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 7
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_StartMenuMap.uasset" 0
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/NewMap.uasset" 1
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 2
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 3
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 4
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 5
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 6
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 7
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 8
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 9
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 10
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 11
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 12
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 13
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 9
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 10
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 11
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 12
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 13
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 14
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 15
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 16
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 17
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 18
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 19
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 20
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 21
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 22
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 23
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 24
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 25
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 26
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 27
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 28
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 29
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 30
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/FirstPersonOverview.uasset" 31
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/AidenDinkingAround/13620-v2.uasset" 32
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/AidenDinkingAround/13620-v2_Mat.uasset" 33
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 34
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 35
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 17
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 18
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 19
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 20
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 21
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 22
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 23
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 24
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 25
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 26
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 27
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 28
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 29
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 30
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/FirstPersonOverview.uasset" 31
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/AidenDinkingAround/13620-v2.uasset" 32
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/AidenDinkingAround/13620-v2_Mat.uasset" 33
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 34
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 35
 "../../../Engine/Content/EngineMeshes/Humanoid.uasset" 36
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 37
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 38
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 39
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 40
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Left_Run.uasset" 41
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Left_Walk.uasset" 42
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Right_Run.uasset" 43
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Right_Walk.uasset" 44
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Left_Strafe_Running.uasset" 45
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Left_Strafe_Walking.uasset" 46
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Right_Strafe_Running.uasset" 47
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Right_Strafe_Walking.uasset" 48
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Run_Backward_Left.uasset" 49
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Run_Backward_Right.uasset" 50
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Run_Backwards.uasset" 51
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Walk_Backward_Left.uasset" 52
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Walk_Backward_Right.uasset" 53
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/Walking_Backwards.uasset" 54
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 55
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPersonRun.uasset" 56
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 57
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/NewLocomotionAnims/BS_JB_DirectionalMovement.uasset" 58
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 59
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 60
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 61
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/AN_JB_FirstPerson_DashLeft.uasset" 62
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/MON_JB_FirstPerson_DashLeft.uasset" 63
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/AN_JB_FirstPerson_DashRight.uasset" 64
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Animations/MON_JB_FirstPerson_DashRight.uasset" 65
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_Dance.uasset" 66
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/DripCheck.uasset" 67
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_JB_LeftDash.uasset" 68
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/MON_JB_LeftDash.uasset" 69
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_JB_RightDash.uasset" 70
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/MON_JB_RightDash.uasset" 71
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_ThrowShort.uasset" 72
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThrowMontageNotClickbait.uasset" 73
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_JB_KO.uasset" 74
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 37
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 38
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 39
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 40
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Left_Run.uasset" 41
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Left_Walk.uasset" 42
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Right_Run.uasset" 43
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Forward_Right_Walk.uasset" 44
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Left_Strafe_Running.uasset" 45
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Left_Strafe_Walking.uasset" 46
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Right_Strafe_Running.uasset" 47
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Right_Strafe_Walking.uasset" 48
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Run_Backward_Left.uasset" 49
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Run_Backward_Right.uasset" 50
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Run_Backwards.uasset" 51
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Walk_Backward_Left.uasset" 52
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Walk_Backward_Right.uasset" 53
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/Walking_Backwards.uasset" 54
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 55
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPersonRun.uasset" 56
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 57
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/NewLocomotionAnims/BS_JB_DirectionalMovement.uasset" 58
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 59
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 60
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 61
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/AN_JB_FirstPerson_DashLeft.uasset" 62
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/MON_JB_FirstPerson_DashLeft.uasset" 63
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/AN_JB_FirstPerson_DashRight.uasset" 64
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Animations/MON_JB_FirstPerson_DashRight.uasset" 65
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_Dance.uasset" 66
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/DripCheck.uasset" 67
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_JB_LeftDash.uasset" 68
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/MON_JB_LeftDash.uasset" 69
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_JB_RightDash.uasset" 70
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/MON_JB_RightDash.uasset" 71
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_ThrowShort.uasset" 72
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThrowMontageNotClickbait.uasset" 73
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_JB_KO.uasset" 74
 "../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 75
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/BP_JB_MP-PlayerState.uasset" 76
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/LevelBPs/BP_JB_BluePlayerStart.uasset" 77
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/LevelBPs/BP_JB_RedPlayerStart.uasset" 78
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/LevelBPs/BP_JB_SpectatorPawn.uasset" 79
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/LevelBPs/StarterPawn.uasset" 80
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/PlayerInfoStruct.uasset" 81
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 82
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/ErrorConnectWidget.uasset" 83
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/OnlineGameInstance.uasset" 84
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/BP_JB_CustomPlayercontroller.uasset" 85
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Meshes/BaseMaterial.uasset" 86
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Meshes/M_JB_FireProjectile.uasset" 87
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 88
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 89
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/BP_JB_MP-PlayerState.uasset" 76
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/LevelBPs/BP_JB_BluePlayerStart.uasset" 77
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/LevelBPs/BP_JB_RedPlayerStart.uasset" 78
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/LevelBPs/BP_JB_SpectatorPawn.uasset" 79
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/LevelBPs/StarterPawn.uasset" 80
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/PlayerInfoStruct.uasset" 81
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 82
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/ErrorConnectWidget.uasset" 83
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/OnlineGameInstance.uasset" 84
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/BP_JB_CustomPlayercontroller.uasset" 85
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Meshes/BaseMaterial.uasset" 86
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Meshes/M_JB_FireProjectile.uasset" 87
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 88
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 89
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 90
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 91
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise6.uasset" 92
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_smoke1.uasset" 93
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_smoke01.uasset" 94
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_flare_a.uasset" 95
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 96
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 97
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_fireBall.uasset" 98
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 99
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/PlayerUnitFrameMinor.uasset" 100
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 101
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 102
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 103
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 104
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 105
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 106
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 107
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 108
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 109
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 110
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 111
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 112
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 113
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/GameOverSucker.uasset" 114
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/PauseScreen.uasset" 115
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 116
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 117
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 118
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 119
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 120
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 121
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 122
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 123
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 124
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 125
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 126
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 127
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 128
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 129
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 130
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 131
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/MusicAndSounds/ThrowingSFX.uasset" 132
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_empty.uasset" 133
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise3.uasset" 134
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_dynDust.uasset" 135
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_smoke2.uasset" 136
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 137
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise6.uasset" 92
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_smoke1.uasset" 93
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_smoke01.uasset" 94
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_flare_a.uasset" 95
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 96
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 97
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_fireBall.uasset" 98
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 99
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/PlayerUnitFrameMinor.uasset" 100
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 101
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 102
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 103
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 104
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 105
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 106
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 107
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 108
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 109
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 110
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 111
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 112
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 113
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/GameOverSucker.uasset" 114
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/PauseScreen.uasset" 115
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 116
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 117
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 118
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 119
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 120
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 121
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 122
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 123
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 124
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 125
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 126
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 127
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 128
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 129
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 130
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 131
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/MusicAndSounds/ThrowingSFX.uasset" 132
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_empty.uasset" 133
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise3.uasset" 134
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_dynDust.uasset" 135
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_smoke2.uasset" 136
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 137
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 138
 "../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 139
 "../../../Engine/Content/EngineResources/DefaultTexture.uasset" 140
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise5.uasset" 141
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 142
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise4.uasset" 143
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 144
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 145
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ParticleEffects/PS_JB_FireProjPreShot.uasset" 146
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 147
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/PlayerUnitFrame.uasset" 148
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/PlayerHUD.uasset" 149
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/PlayerHUD.uasset" 150
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/PlayerUnitFrame.uasset" 151
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/PlayerUnitFrameMinor.uasset" 152
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/HostMatchWidget.uasset" 153
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/SessionResult_UI.uasset" 154
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/JoinMatchWidget.uasset" 155
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/StartMenuTestingTexture/Seaside_Beach__2_.uasset" 156
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/startmenugameshit/StartMenu.uasset" 157
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/StartMenu.uasset" 158
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/StartMenu.uasset" 159
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/GameOverMenuLoss.uasset" 160
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/GameOverMenuWin.uasset" 161
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/PlayerInfoSaveData.uasset" 162
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/startmenugameshit/OnlineGameInstance.uasset" 163
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Geometry/Meshes/CubeMaterial.uasset" 164
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 165
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Geometry/Meshes/TemplateFloor.uasset" 166
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/SK_Mixamo.uasset" 167
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/AN_Dance-Mix.uasset" 168
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/AN_Flinch-Mix.uasset" 169
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/AN_LeftTurn-MixDONTUSEITSBROKEN.uasset" 170
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/AN_RightTurn-Mix.uasset" 171
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/AN_Throw-Mix.uasset" 172
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/MixamoBoneMapping.uasset" 173
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/Right_Turn.uasset" 174
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/ImportedAnimations/Stunned_Anim_mixamo_com.uasset" 175
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/Textures/Env_Fire_NordHeed_D.uasset" 176
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/Textures/T_Env_Ice_NordHeed_N.uasset" 177
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/Materials/M_Env_Fire_Nordheed.uasset" 178
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/SM/Env_Fire_NordRock01.uasset" 179
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/SM/Env_Fire_NordRock02.uasset" 180
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_JB_LeftTurn.uasset" 181
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_LeftTurn.uasset" 182
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_JB_RightTurn.uasset" 183
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_RightTurn.uasset" 184
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_Throw.uasset" 185
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/MON_JB_Dance.uasset" 186
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/MON_JB_KO.uasset" 187
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/AN_JB_FlinchAdjusted.uasset" 188
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/SheTookTheKids.uasset" 189
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 190
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPerson_Jump-Brokey.uasset" 191
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 192
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Albedo.uasset" 193
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/RoughRocks/T_JB_RoughRock_4K_AO.uasset" 194
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Displacement.uasset" 195
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Normal.uasset" 196
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Roughness.uasset" 197
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_BasicImportMat.uasset" 198
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_JaggedRockGlow_Inst.uasset" 199
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Example/shfsaida_2K_Albedo.uasset" 200
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Example/shfsaida_2K_Displacement.uasset" 201
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Example/shfsaida_2K_Normal.uasset" 202
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Example/shfsaida_2K_Roughness.uasset" 203
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_JaggedSlate_Inst.uasset" 204
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_TestMaterial.uasset" 205
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_TestMaterial_Inst.uasset" 206
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_TestMaterial_Inst_Inst2.uasset" 207
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ScoreboardBP/ScoreboardBP.uasset" 208
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise5.uasset" 141
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 142
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise4.uasset" 143
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 144
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 145
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ParticleEffects/PS_JB_FireProjPreShot.uasset" 146
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 147
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/PlayerUnitFrame.uasset" 148
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/PlayerHUD.uasset" 149
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/PlayerHUD.uasset" 150
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/PlayerUnitFrame.uasset" 151
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/PlayerUnitFrameMinor.uasset" 152
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/HostMatchWidget.uasset" 153
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/SessionResult_UI.uasset" 154
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/JoinMatchWidget.uasset" 155
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/StartMenuTestingTexture/Seaside_Beach__2_.uasset" 156
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/startmenugameshit/StartMenu.uasset" 157
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/StartMenu.uasset" 158
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/StartMenu.uasset" 159
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/GameOverMenuLoss.uasset" 160
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/GameOverMenuWin.uasset" 161
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/PlayerInfoSaveData.uasset" 162
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/startmenugameshit/OnlineGameInstance.uasset" 163
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Geometry/Meshes/CubeMaterial.uasset" 164
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 165
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Geometry/Meshes/TemplateFloor.uasset" 166
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/SK_Mixamo.uasset" 167
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/AN_Dance-Mix.uasset" 168
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/AN_Flinch-Mix.uasset" 169
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/AN_LeftTurn-MixDONTUSEITSBROKEN.uasset" 170
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/AN_RightTurn-Mix.uasset" 171
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/AN_Throw-Mix.uasset" 172
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/MixamoBoneMapping.uasset" 173
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/Right_Turn.uasset" 174
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/ImportedAnimations/Stunned_Anim_mixamo_com.uasset" 175
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/Textures/Env_Fire_NordHeed_D.uasset" 176
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/Textures/T_Env_Ice_NordHeed_N.uasset" 177
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/Materials/M_Env_Fire_Nordheed.uasset" 178
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/SM/Env_Fire_NordRock01.uasset" 179
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/SM/Env_Fire_NordRock02.uasset" 180
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_JB_LeftTurn.uasset" 181
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_LeftTurn.uasset" 182
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_JB_RightTurn.uasset" 183
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_RightTurn.uasset" 184
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_Throw.uasset" 185
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/MON_JB_Dance.uasset" 186
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/MON_JB_KO.uasset" 187
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/AN_JB_FlinchAdjusted.uasset" 188
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/SheTookTheKids.uasset" 189
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 190
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPerson_Jump-Brokey.uasset" 191
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 192
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Albedo.uasset" 193
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/RoughRocks/T_JB_RoughRock_4K_AO.uasset" 194
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Displacement.uasset" 195
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Normal.uasset" 196
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/RoughRocks/T_JB_RoughRock_4K_Roughness.uasset" 197
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_BasicImportMat.uasset" 198
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_JaggedRockGlow_Inst.uasset" 199
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Example/shfsaida_2K_Albedo.uasset" 200
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Example/shfsaida_2K_Displacement.uasset" 201
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Example/shfsaida_2K_Normal.uasset" 202
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Example/shfsaida_2K_Roughness.uasset" 203
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_JaggedSlate_Inst.uasset" 204
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_TestMaterial.uasset" 205
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_TestMaterial_Inst.uasset" 206
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_TestMaterial_Inst_Inst2.uasset" 207
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ScoreboardBP/ScoreboardBP.uasset" 208
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 209
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 210
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 211
@@ -344,340 +344,343 @@
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 343
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 344
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 345
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 346
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 347
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 348
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 349
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 350
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 351
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 352
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 353
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 354
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 355
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 356
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 357
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 358
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 359
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 360
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 361
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 362
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 363
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 364
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 365
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 366
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 367
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 368
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 369
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 370
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 371
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 372
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 373
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 374
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 375
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 376
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 377
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 378
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 379
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/LevelBPs/BP_JB_DeathBarrier.uasset" 380
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/LevelBPs/TestingGameMode.uasset" 381
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_BASEMAP_BuiltData.uasset" 382
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 383
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_DP_PlatformMaterial.uasset" 384
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_DP_PlatformMaterial_Inst.uasset" 385
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_DP_PlatformMaterial_Inst2.uasset" 386
-"../../../Engine/Content/BasicShapes/Cube.uasset" 387
-"../../../Engine/Content/BasicShapes/Plane.uasset" 388
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_BASEMAP.umap" 389
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_FIREMAP_BuiltData.uasset" 390
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Fire_Lava.uasset" 391
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Materials/M_Lava_Flowing.uasset" 392
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_DP_LAVAROCK.uasset" 393
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Gravel/T_JB_Gravel_4K_Albedo.uasset" 394
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Gravel/T_JB_Gravel_4K_AO.uasset" 395
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Gravel/T_JB_Gravel_4K_Displacement.uasset" 396
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Gravel/T_JB_Gravel_4K_Normal.uasset" 397
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/Gravel/T_JB_Gravel_4K_Roughness.uasset" 398
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_Gravel_Inst.uasset" 399
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_GravelUnstretch_Inst1.uasset" 400
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_JaggedRock_Inst.uasset" 401
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_JaggedRockUnstretch_Inst.uasset" 402
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_JaggedRockUnstretch_Inst1.uasset" 403
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_RockHotBlend.uasset" 404
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_RockHotBlend_Inst.uasset" 405
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 406
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/Textures/T_Dungeon_Pipe_Lava_E.uasset" 407
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/Materials/M_Dungeon_Pipes_Lava.uasset" 408
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/StaticMesh/Pipes/SM_Dungeon_Pipes_Lava01.uasset" 409
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/MusicAndSounds/EG-Fight.uasset" 410
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_Ember.uasset" 411
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ParticleEffects/PS_JB_Embers.uasset" 412
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_FIREMAP.umap" 413
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_ICEMAP_BuiltData.uasset" 414
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_ICEMAP.umap" 415
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 416
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 417
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_TESTMAP_BuiltData.uasset" 418
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/L_DP_TESTMAP.umap" 419
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ThirdPersonBP/Blueprints/LobbyCharacter.uasset" 420
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 421
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 422
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 423
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 424
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Geometry/Meshes/1M_Cube.uasset" 425
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Textures/T_fog.uasset" 426
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_VolumeFog.uasset" 427
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/M_JB_VolumeFog_Inst.uasset" 428
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ParticleEffects/PS_JB_LocalFog.uasset" 429
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 430
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/startmenugameshit/StartMenuController.uasset" 431
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/startmenugameshit/StartMenuGameMode.uasset" 432
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/MusicAndSounds/AG-CalmingRiff-wo-Drum.uasset" 433
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/L_DP_StartMenuMap.umap" 434
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/ENUM_Teams.uasset" 435
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/INT_JB_PlayerController.uasset" 436
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/M_UE4Man_FPBody_InstBlue.uasset" 437
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/M_UE4Man_Body_InstBlue.uasset" 438
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogoBlue.uasset" 439
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/BlueFirstPersonCharacter.uasset" 440
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPerson/Character/Materials/M_UE4Man_FPBody_InstRed.uasset" 441
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/M_UE4Man_Body_InstRed.uasset" 442
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogoRed.uasset" 443
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/RedFirstPersonCharacter.uasset" 444
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/LobbyGameMode.uasset" 445
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/TeamSelectionStruct.uasset" 446
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/FirstPersonBP/Blueprints/TeamData.uasset" 447
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/LobbyClientScreen.uasset" 448
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/MapDataStructure.uasset" 449
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Maps/MapDataTable.uasset" 450
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/LobbyHostScreen.uasset" 451
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/LobbyController.uasset" 452
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/OnlineLobby_BuiltData.uasset" 453
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/MusicAndSounds/AG-CalmingRiff-wDrum.uasset" 454
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_smoke03.uasset" 455
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/JB_M_Smoke.uasset" 456
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Materials/JB_M_Smoke_Inst.uasset" 457
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/ParticleEffects/PS_JB_Smoke.uasset" 458
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/GameUI/OnlineLobby.umap" 459
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 460
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 461
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 462
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 463
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_stone02.uasset" 464
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 465
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 466
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 467
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 468
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise17.uasset" 469
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_storm01.uasset" 470
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 471
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 472
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 473
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 474
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 475
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 476
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 477
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 478
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 479
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 480
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_storm.uasset" 481
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 482
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 483
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 484
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 485
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 486
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 487
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 488
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 489
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 490
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 491
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 492
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 493
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 494
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_decoLines.uasset" 495
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 496
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_polar.uasset" 497
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 498
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_bg.uasset" 499
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_subUV01.uasset" 500
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 501
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 502
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_hit2.uasset" 503
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 504
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 505
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 506
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_primitive.uasset" 507
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 508
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 509
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 510
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_explosion.uasset" 511
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 512
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 513
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 514
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 515
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 516
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 517
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 518
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 519
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 520
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 521
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 522
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 523
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 524
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 525
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 526
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 527
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_base_anime.uasset" 528
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 529
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 530
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 531
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 532
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 533
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 534
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 535
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 536
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_starDust.uasset" 537
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 538
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 539
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 540
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 541
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_healAura.uasset" 542
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 543
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 544
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 545
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 546
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 547
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 548
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 549
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 550
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 551
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 552
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 553
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_lightning1.uasset" 554
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 555
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 556
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 557
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_hit1.uasset" 558
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 559
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 560
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_laser01.uasset" 561
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 562
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 563
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_laser01.uasset" 564
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 565
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_lightning2.uasset" 566
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 567
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 568
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_lightning3.uasset" 569
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 570
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 571
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 572
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_noise.uasset" 573
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 574
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 575
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 576
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 577
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 578
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 579
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_base.uasset" 580
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_circleDust.uasset" 581
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 582
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 583
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 584
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 585
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 586
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 587
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 588
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_subUV03.uasset" 589
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 590
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 591
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 592
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 593
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 594
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 595
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 596
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_flare3.uasset" 597
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" 598
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_flarePillar.uasset" 599
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_flareVert.uasset" 600
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_flareVert.uasset" 601
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_aura9.uasset" 602
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_aura9.uasset" 603
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" 604
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" 605
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_quads.uasset" 606
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" 607
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_shotShockwave.uasset" 608
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 609
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 610
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 611
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 612
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 613
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 614
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 615
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 616
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 617
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 618
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 619
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 620
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 621
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 622
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 623
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 624
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 625
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_waterBall.uasset" 626
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 627
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 628
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 629
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 630
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 631
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 632
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 633
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 634
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 635
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 636
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 637
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 638
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 639
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 640
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 641
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 642
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 643
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 644
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 645
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 646
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 647
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 648
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 649
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 650
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 651
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 652
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 653
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 654
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 655
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 656
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 657
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 658
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 659
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 660
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 661
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 662
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 663
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 664
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 665
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 666
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 667
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 668
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 669
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 670
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 671
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 672
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 673
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 674
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 675
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 676
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 677
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 678
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 679
-"../../../../../../Users/Jonathan/Documents/Unreal Projects/ProjectDodgeTheMagic/Content/Imported/FXVarietyPack/Map/Overview.umap" 680
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 681
-"../../../Engine/Content/Maps/Entry.umap" 682
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 346
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 347
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 348
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 349
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 350
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 351
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 352
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 353
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 354
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 355
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 356
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 357
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 358
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 359
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 360
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 361
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 362
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 363
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 364
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 365
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 369
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 370
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 371
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 372
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 373
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 374
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 375
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 376
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 377
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 378
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 379
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 380
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 381
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 382
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/LevelBPs/BP_JB_DeathBarrier.uasset" 383
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/LevelBPs/TestingGameMode.uasset" 384
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_BASEMAP_BuiltData.uasset" 385
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 386
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_DP_PlatformMaterial.uasset" 387
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_DP_PlatformMaterial_Inst.uasset" 388
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_DP_PlatformMaterial_Inst2.uasset" 389
+"../../../Engine/Content/BasicShapes/Cube.uasset" 390
+"../../../Engine/Content/BasicShapes/Plane.uasset" 391
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_BASEMAP.umap" 392
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_FIREMAP_BuiltData.uasset" 393
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Textures/T_Fire_Lava.uasset" 394
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/Materials/M_Lava_Flowing.uasset" 395
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_DP_LAVAROCK.uasset" 396
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Gravel/T_JB_Gravel_4K_Albedo.uasset" 397
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Gravel/T_JB_Gravel_4K_AO.uasset" 398
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Gravel/T_JB_Gravel_4K_Displacement.uasset" 399
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Gravel/T_JB_Gravel_4K_Normal.uasset" 400
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/Gravel/T_JB_Gravel_4K_Roughness.uasset" 401
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_Gravel_Inst.uasset" 402
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_GravelUnstretch_Inst1.uasset" 403
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_JaggedRock_Inst.uasset" 404
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_JaggedRockUnstretch_Inst.uasset" 405
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_JaggedRockUnstretch_Inst1.uasset" 406
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_RockHotBlend.uasset" 407
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_RockHotBlend_Inst.uasset" 408
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 409
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/Textures/T_Dungeon_Pipe_Lava_E.uasset" 410
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/Materials/M_Dungeon_Pipes_Lava.uasset" 411
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/StaticMesh/Pipes/SM_Dungeon_Pipes_Lava01.uasset" 412
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/MusicAndSounds/EG-Fight.uasset" 413
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_Ember.uasset" 414
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ParticleEffects/PS_JB_Embers.uasset" 415
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_FIREMAP.umap" 416
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_ICEMAP_BuiltData.uasset" 417
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_ICEMAP.umap" 418
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 419
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 420
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_TESTMAP_BuiltData.uasset" 421
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/L_DP_TESTMAP.umap" 422
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ThirdPersonBP/Blueprints/LobbyCharacter.uasset" 423
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 425
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 426
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 427
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Geometry/Meshes/1M_Cube.uasset" 428
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Textures/T_fog.uasset" 429
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_VolumeFog.uasset" 430
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/M_JB_VolumeFog_Inst.uasset" 431
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ParticleEffects/PS_JB_LocalFog.uasset" 432
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 433
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/startmenugameshit/StartMenuController.uasset" 434
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/startmenugameshit/StartMenuGameMode.uasset" 435
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/MusicAndSounds/AG-CalmingRiff-wo-Drum.uasset" 436
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/L_DP_StartMenuMap.umap" 437
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/ENUM_Teams.uasset" 438
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/INT_JB_PlayerController.uasset" 439
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/M_UE4Man_FPBody_InstBlue.uasset" 440
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/M_UE4Man_Body_InstBlue.uasset" 441
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogoBlue.uasset" 442
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/BlueFirstPersonCharacter.uasset" 443
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPerson/Character/Materials/M_UE4Man_FPBody_InstRed.uasset" 444
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/M_UE4Man_Body_InstRed.uasset" 445
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogoRed.uasset" 446
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/RedFirstPersonCharacter.uasset" 447
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/LobbyGameMode.uasset" 448
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/TeamSelectionStruct.uasset" 449
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/FirstPersonBP/Blueprints/TeamData.uasset" 450
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/LobbyClientScreen.uasset" 451
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/MapDataStructure.uasset" 452
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Maps/MapDataTable.uasset" 453
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/LobbyHostScreen.uasset" 454
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/LobbyController.uasset" 455
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/OnlineLobby_BuiltData.uasset" 456
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/MusicAndSounds/AG-CalmingRiff-wDrum.uasset" 457
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_smoke03.uasset" 458
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/JB_M_Smoke.uasset" 459
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Materials/JB_M_Smoke_Inst.uasset" 460
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/ParticleEffects/PS_JB_Smoke.uasset" 461
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/GameUI/OnlineLobby.umap" 462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 463
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 465
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 466
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_stone02.uasset" 467
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 468
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 469
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 470
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 471
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise17.uasset" 472
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_storm01.uasset" 473
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 474
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 475
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 476
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 477
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 478
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 479
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 480
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 481
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 482
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 483
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_storm.uasset" 484
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 485
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 486
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 487
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 488
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 489
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 490
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 491
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 492
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 493
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 494
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 495
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 496
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 497
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_decoLines.uasset" 498
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 499
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_polar.uasset" 500
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 501
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_bg.uasset" 502
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_subUV01.uasset" 503
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 504
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 505
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_hit2.uasset" 506
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 507
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 508
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 509
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_primitive.uasset" 510
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 511
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 512
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 513
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_explosion.uasset" 514
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 515
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 516
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 517
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 518
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 519
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 520
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 521
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 522
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 523
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 524
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 525
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 526
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 527
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 528
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 529
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 530
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_base_anime.uasset" 531
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 532
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 533
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 534
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 535
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 536
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 537
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 538
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 539
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_starDust.uasset" 540
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 541
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 542
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 543
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 544
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_healAura.uasset" 545
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 546
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 547
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 548
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 549
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 550
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 551
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 552
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 553
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 554
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 555
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 556
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_lightning1.uasset" 557
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 558
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 559
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 560
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_hit1.uasset" 561
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 562
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 563
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_laser01.uasset" 564
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 565
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 566
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_laser01.uasset" 567
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 568
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_lightning2.uasset" 569
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 570
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 571
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_lightning3.uasset" 572
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 573
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 574
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 575
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_noise.uasset" 576
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 577
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 578
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 579
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 580
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 581
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 582
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_base.uasset" 583
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_circleDust.uasset" 584
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 585
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 586
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 587
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 588
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 589
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 590
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 591
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_subUV03.uasset" 592
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 593
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 594
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 595
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 596
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 597
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 598
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 599
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_flare3.uasset" 600
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" 601
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_flarePillar.uasset" 602
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_flareVert.uasset" 603
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_flareVert.uasset" 604
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_aura9.uasset" 605
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_aura9.uasset" 606
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" 607
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" 608
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_quads.uasset" 609
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" 610
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_shotShockwave.uasset" 611
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 612
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 613
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 614
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 615
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 616
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 617
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 618
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 619
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 620
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 621
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 622
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 623
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 624
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 625
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 626
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 627
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 628
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_waterBall.uasset" 629
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 630
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 631
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 632
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 633
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 634
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 635
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 636
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 637
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 638
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 639
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 640
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 641
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 642
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 643
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 644
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 645
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 646
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 647
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 648
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 649
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 650
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 651
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 652
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 653
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 654
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 655
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 656
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 657
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 658
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 659
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 660
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 661
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 662
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 663
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 664
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 665
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 666
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 667
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 668
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 669
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 670
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 671
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 672
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 673
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 674
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 675
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 676
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 677
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 678
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 679
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 680
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 681
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 682
+"../../../../../../Users/aiden/Documents/GitHub/SharedForCS107/Content/Imported/FXVarietyPack/Map/Overview.umap" 683
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 684
+"../../../Engine/Content/Maps/Entry.umap" 685
